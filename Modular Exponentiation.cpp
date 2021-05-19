@@ -1,3 +1,5 @@
+//finds (a^b)%mod in log(b) time
+
 const int mod=(int)1e9+7;
 int modexp(int a,int b){
     int extra=1;

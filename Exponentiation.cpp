@@ -1,3 +1,5 @@
+//finds a^b in log(b) time
+
 int exp(int a,int b){
     int extra=1;
     while(b){
