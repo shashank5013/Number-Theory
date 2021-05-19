@@ -1,4 +1,4 @@
-//precalculates whether i is a prime or not in O(NloglogN) time
+// precalculates whether i is a prime or not in O(NloglogN) time
 
 #include<vector>
 using namespace std;
